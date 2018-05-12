@@ -1,5 +1,8 @@
 _repo: Historie-van-Mejuffrouw-Sara-Burgerhart_10400
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wolff, Elizabeth Bekker
@@ -8,20 +11,22 @@ creator:
     - Bekker, E.
     - Wolff-Bekker, Elizabeth
     birthdate: 1738
-    deathdate: &id001 1804
+    deathdate: 1804
     gutenberg_agent_id: '4555'
     url: http://www.gutenberg.org/2009/agents/4555
     wikipedia: http://nl.wikipedia.org/wiki/Betje_Wolff
   - agent_name: Deken, Agatha
     alias: Deken, Aagje
     birthdate: 1741
-    deathdate: *id001
+    deathdate: 1804
     gutenberg_agent_id: '3513'
     url: http://www.gutenberg.org/2009/agents/3513
     wikipedia:
     - http://nl.wikipedia.org/wiki/Aagje_Deken
     - http://en.wikipedia.org/wiki/Aagje_Deken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10400#Historie-van-Mejuffrouw-Sara-Burgerhart
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
